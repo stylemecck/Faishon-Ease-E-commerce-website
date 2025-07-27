@@ -20,7 +20,7 @@ An e-commerce platform focused on fashion products, enabling users to browse, sh
 ## Tech Stack
 
 - Backend: Python (Flask/FastAPI/Django – specify which one your project uses)
-- Frontend: (Specify, e.g., React, plain HTML/JS, etc.)
+- Frontend: React.js, Tailwind CSS
 - Database: SQLite (easy setup for development and lightweight production use)
 - Authentication: JWT (JSON Web Tokens)
 - Image Hosting: Cloudinary
